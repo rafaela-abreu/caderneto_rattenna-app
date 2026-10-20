@@ -1,0 +1,19 @@
+# Flutter / Dart
+.dart_tool/
+.build/
+.pub-cache/
+.pub/
+build/
+
+# Android
+.gradle/
+local.properties
+capture_settings.json
+*.apk
+*.aar
+*.keystore
+
+# IDEs
+.vscode/
+.idea/
+*.iml
